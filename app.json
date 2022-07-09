@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "react-native-nfc",
+    "slug": "react-native-nfc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,6 +26,7 @@
         "backgroundColor": "#FFFFFF"
       }
     },
+    "plugins": ["react-native-nfc-manager"],
     "web": {
       "favicon": "./assets/favicon.png"
     }
